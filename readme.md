@@ -5,4 +5,4 @@ Daily calorie tracking app
 - JS classes
 - LocalStorage
 
-https://visionary-custard-f320f1.netlify.app 
+https://creative-toffee-ec1565.netlify.app/
