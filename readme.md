@@ -1,6 +1,6 @@
 # Vanilla JS - Tracalorie App
 
-Daily calorie tracking app
+Daily calorie tracking app1
 
 - JS classes
 - LocalStorage
